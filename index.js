@@ -1,5 +1,5 @@
 // Add your code here
-const url = 'http://localhost:3000/users'
+
 const body = document.querySelector('body')
 function submitData(name, email){
     const contentData = {
